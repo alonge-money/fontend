@@ -1,0 +1,144 @@
+html {
+  scroll-behavior: smooth;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0px;
+}
+#ola {
+  color: white;
+  font-size: 40px;
+  background-color: hsl(211, 29%, 39%);
+  height: 45px;
+  width: 50px;
+  border-radius: 30px;
+}
+.all {
+  min-height: 610vh;
+  min-width: 100%;
+  background-color: black;
+}
+#one {
+  display: flex;
+  flex-wrap: wrap;
+  color: white;
+  justify-content: space-between;
+  padding: 15px;
+  font-family: arial;
+  min-height: 5vh;
+}
+#home {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+}
+.ser {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap-reverse;
+  min-height: 80vh;
+  max-width: 100%;
+  margin-top: 150px;
+}
+#web {
+  font-size: 35px;
+  padding-top: 40px;
+  color: white;
+  font-family: arial;
+  padding-left: 60px;
+}
+#sec {
+  color: white;
+  padding-top: 30px;
+  font-family: arial;
+  padding-left: 60px;
+}
+.service {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.net {
+  color: white;
+  padding: 20px;
+  font-size: 35px;
+  font-family: arial;
+}
+#word {
+  background-color: #2a3b4d;
+  text-align: center;
+  color: white;
+  width: 35vh;
+  min-height: 40vh;
+  font-family: regularfonts2, Calibri, Segoe UI, Futura;
+  margin: 30px;
+  padding: 10px;
+}
+.pho {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+#box {
+  background-color: white;
+  text-align: center;
+  width: 36vh;
+  min-height: 40vh;
+  margin: 30px;
+}
+.site {
+  color: white;
+  background-color: #466280;
+  padding: 2px;
+  text-decoration: none;
+  border-radius: 20px;
+  font-family: arial;
+}
+.abu {
+  margin: auto;
+  min-height: 35px;
+  width: 130px;
+  background-color: #466280;
+  margin-top: 50px;
+  color: white;
+  padding: 10px;
+  font-family: arial;
+  border-radius: 15px;
+  padding-left: 30px;
+  margin-bottom: 100px;
+}
+.com {
+  width: 250px;
+  min-height: 50px;
+  background-color: red;
+  margin: 25px;
+  margin-left: 30px;
+  background-color: white;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 15px;
+}
+#rat {
+  min-height: 30vh;
+  width: 55vh;
+  margin: 10px;
+  padding-left: 10px;
+  color: white;
+  padding-left: 30px;
+}
+#tools {
+  padding: 5px;
+  font-family: arial;
+  font-size: 17px;
+}
+#png {
+  width: 80vh;
+  min-height: 30vh;
+  color: white;
+  font-size: 20px;
+  font-family: regularfonts, Calibri, Segoe UI, Futura;
+}
+#icon {
+  padding: 5px;
+}
